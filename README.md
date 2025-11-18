@@ -4,7 +4,7 @@
 <br/>🤖 Robotics & AI
 <br/>💻 Passionate about Full-Stack Development, Automation & Problem Solving
 
-<img align="right" width="370" height="250" src="https://giffiles.alphacoders.com/121/12113.gif">
+<img align="right" width="370" height="250" src="https://gifdb.com/images/high/hard-work-flint-lockwood-typing-wletu9yrtxfvwpxg.webp">
 
 
 
