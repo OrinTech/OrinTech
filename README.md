@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=orintech&label=Profile%20views&color=0e75b6&style=flat" alt="orintech" /> </p>
 🚀 Aspiring Software Developer 
 <br/>🤖 Robotics & AI
-<br/>💻 Passionate about Full-Stack Development, <br/> Automation & Problem Solving
+<br/>💻 Passionate about Full-Stack Development & Problem Solving
 
 <img align="right" width="370" height="230" src="https://giffiles.alphacoders.com/121/12113.gif">
 
