@@ -1,5 +1,6 @@
 ## Hi 👋, It's me Orin Lavaniya
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=orintech&label=Profile%20views&color=0e75b6&style=flat" alt="orintech" /> </p>
 🚀 Aspiring Software Developer 
 <br/>🤖 Robotics & AI
 <br/>💻 Passionate about Full-Stack Development, Automation & Problem Solving
