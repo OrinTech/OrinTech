@@ -4,7 +4,7 @@
 <br/>🤖 Robotics & AI
 <br/>💻 Passionate about Full-Stack Development, Automation & Problem Solving
 
-![This image is not found]("https://gifdb.com/gif/hard-work-flint-lockwood-typing-wletu9yrtxfvwpxg.html0")
+<img align="right" width="370" height="250" src="https://gifdb.com/gif/hard-work-flint-lockwood-typing-wletu9yrtxfvwpxg.html0">
 
 
 
