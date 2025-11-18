@@ -1,12 +1,20 @@
 Hi 👋, It's me Orin Lavaniya
 
-Software Engineering Student
+🚀 Aspiring Software Developer 
+🤖 Robotics & AI
+💻 Passionate about Full-Stack Development, Automation & Problem Solving
 
 
 
-- 🌱 I’m currently learning **Full stack development**
+## 🌱 Currently Learning
+- Backend development (Python, Java)
+- Full-Stack basics (HTML, CSS, JavaScript)
+- Data structures & algorithms
 
-- 📫 How to reach me **orinlavaniya@gmail.com**
+## 📘 Projects I'm Working On
+- 🟦 HND Team Project — Backend Developer
+
+## 📫 How to reach me **orinlavaniya@gmail.com**
 
 
 
